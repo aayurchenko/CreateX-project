@@ -1,1 +1,1 @@
-A fully functional web project created with HTML, CSS, and JavaScript.
+# A fully functional web project created with HTML, CSS, and JavaScript.
