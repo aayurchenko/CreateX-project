@@ -168,7 +168,4 @@ $(function () {
 // Инициализация
     $(document).ready(toggleFooterAccordion);
     $(window).on('resize', toggleFooterAccordion);
-
-    
 });
-
