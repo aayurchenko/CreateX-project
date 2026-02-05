@@ -46,7 +46,7 @@ body {
 }
 .main__testimonials {
     padding: 80px 0 90px;
-    background: url("/images/testimonials/shapes.svg") 70% 0 no-repeat, #F4F5F6;
+    background: url("images/testimonials/shapes.svg") 70% 0 no-repeat, #F4F5F6;
 }
 
 .main__jobs {
@@ -138,7 +138,7 @@ body {
 .header {
     font-weight: 700;
     background:
-        url("../images/decor/shapesbg.svg") 50% 50% / cover no-repeat,
+        url("images/decor/shapesbg.svg") 50% 50% / cover no-repeat,
         linear-gradient(55.95deg, rgba(255, 63, 58, 0.2) 0%, rgba(247, 94, 5, 0.2) 100%);
     height: 100vh;
     display: flex;
@@ -199,7 +199,7 @@ body {
     left: 0;
     transform: translateY(-50%);
     display: block;
-    background: url("/images/header/profile.svg") no-repeat;
+    background: url("images/header/profile.svg") no-repeat;
     width: 20px;
     height: 20px;
 }
@@ -324,7 +324,7 @@ body {
     position: absolute;
     top: -80px;
     right: -290px;
-    background: url(/images/decor/shapesbg2.svg);
+    background: url("images/decor/shapesbg2.svg");
     width: 100px;
     height: 85px;
 }
@@ -419,7 +419,7 @@ body {
     left: -250px;
     width: 136px;
     height: 115px;
-    background: url("/images/decor/5.svg") 0 0 no-repeat;
+    background: url("images/decor/5.svg") 0 0 no-repeat;
 }
 
 .directions__inner::after {
@@ -430,7 +430,7 @@ body {
     right: -400px;
     width: 242px;
     height: 242px;
-    background: url("/images/decor/6.svg") 0 0 no-repeat;
+    background: url("images/decor/6.svg") 0 0 no-repeat;
 }
 
 .directions__heading {
@@ -547,7 +547,7 @@ body {
 
 .directions__link-btn::after {
     content: "";
-    background: url("/images/icons/arrowright.svg") 0 1px / 100% no-repeat;
+    background: url("images/icons/arrowright.svg") 0 1px / 100% no-repeat;
     display: block;
     width: 24px;
     height: 24px;
@@ -613,7 +613,7 @@ body {
     left: -216px;
     width: 60px;
     height: 60px;
-    background: url("/images/decor/shapesbg4.svg") 0 0 no-repeat;
+    background: url("images/decor/shapesbg4.svg") 0 0 no-repeat;
 }
 
 .cert__content {
@@ -663,7 +663,7 @@ body {
 
 .team__heading::before {
     content: "";
-    background: url("/images/team/vector.svg") no-repeat center / cover;
+    background: url("images/team/vector.svg") no-repeat center / cover;
     position: absolute;
     height: 41px;
     width: 41px;
@@ -677,7 +677,7 @@ body {
 
 .team__slider::after {
     content: "";
-    background: url("/images/team/shapes.svg") no-repeat center / cover;
+    background: url("images/team/shapes.svg") no-repeat center / cover;
     position: absolute;
     height: 96px;
     width: 96px;
@@ -865,7 +865,7 @@ body {
     height: 20px;
     top: 0;
     left: -58px;
-    background: url("/images/testimonials/braces.svg") 0 0 / 100% no-repeat;
+    background: url("images/testimonials/braces.svg") 0 0 / 100% no-repeat;
 }
 .test__person-box {
     display: flex;
@@ -1007,7 +1007,7 @@ body {
     left: 100px;
     height: 90px;
     width: 90px;
-    background: url("/images/jobs/shapes.svg") 0 0 / 100% no-repeat;
+    background: url("images/jobs/shapes.svg") 0 0 / 100% no-repeat;
 }
 .container {
 }
@@ -1277,7 +1277,7 @@ body {
     left: 0;
     width: 15px;
     height: 15px;
-    background: url(/images/blog/calendar.svg) 0 0 / 100% no-repeat;
+    background: url("images/blog/calendar.svg") 0 0 / 100% no-repeat;
     margin-right: 9px;
 }
 
@@ -1294,7 +1294,7 @@ body {
     left: 0;
     width: 15px;
     height: 15px;
-    background: url(/images/blog/clock.svg) 0 0 / 100% no-repeat;
+    background: url("images/blog/clock.svg") 0 0 / 100% no-repeat;
     margin-right: 9px;
 }
 
@@ -1325,28 +1325,28 @@ body {
     content: "";
     width: 24px;
     height: 24px;
-    background: url("/images/blog/arrowright.svg") 0 0 / 100% no-repeat;
+    background: url("images/blog/arrowright.svg") 0 0 / 100% no-repeat;
     margin-left: 8px;
 }
 
 .blog__content-item--podcast .blog__img-box span::before{
     width: 12px;
     height: 16px;
-    background: url("/images/blog/mic.svg") 0 0 / 100% no-repeat;
+    background: url("images/blog/mic.svg") 0 0 / 100% no-repeat;
 
 }
 
 .blog__content-item--video .blog__img-box span::before{
     width: 15px;
     height: 15px;
-    background: url("/images/blog/play-icon.svg") 0 0 / 100% no-repeat;
+    background: url("images/blog/play-icon.svg") 0 0 / 100% no-repeat;
 
 }
 
 .blog__content-item--article .blog__img-box span::before{
     width: 12px;
     height: 15px;
-    background: url("/images/blog/article.svg") 0 0 / 100% no-repeat;
+    background: url("images/blog/article.svg") 0 0 / 100% no-repeat;
 }
 
 
@@ -1414,15 +1414,15 @@ body {
 }
 
 .contact__info-mail .contact__info-item--top::before{
-    background: url("/images/contacts/messages.svg") 0 0 / 100% no-repeat;
+    background: url("images/contacts/messages.svg") 0 0 / 100% no-repeat;
 
 }
 .contact__info-phone .contact__info-item--top::before{
-    background: url("/images/contacts/phone.svg") 0 0 / 100% no-repeat;
+    background: url("images/contacts/phone.svg") 0 0 / 100% no-repeat;
 
 }
 .contact__info-adress .contact__info-item--top::before{
-    background: url("/images/contacts/address.svg") 0 0 / 100% no-repeat;
+    background: url("images/contacts/address.svg") 0 0 / 100% no-repeat;
 
 }
 .contact__socials {
@@ -1564,7 +1564,7 @@ body {
 }
 
 .form__checkbox-default:checked + .form__checkbox-custom{
-    background: url("/images/icons/check.svg") 50% 50% / 80% no-repeat, #ff3f3a;
+    background: url("images/icons/check.svg") 50% 50% / 80% no-repeat, #ff3f3a;
     border: 1px solid #ff3f3a;
 
 }
@@ -1726,7 +1726,7 @@ body {
     height: 16px;
     top: 50%;
     right: 0;
-    background: url('/images/footer/arrowright.svg') 0 0 / 100% no-repeat;
+    background: url("images/footer/arrowright.svg") 0 0 / 100% no-repeat;
     transform: scale(1.1);
     transition: all .3s;
 }
@@ -1770,7 +1770,7 @@ body {
     display: inline-block;
     width: 16px;
     height: 16px;
-    background: url("/images/footer/copyright.svg") 0 0 / 100% 100% no-repeat;
+    background: url("images/footer/copyright.svg") 0 0 / 100% 100% no-repeat;
     margin: 0 4px 0;
 
 }
@@ -1949,7 +1949,7 @@ body {
         height: 22px;
         top: 30px;
         left: 15px;
-        background: url('/images/logo/logo.svg') no-repeat center;
+        background: url("images/logo/logo.svg") no-repeat center;
     }
 
     .header__top--open {
